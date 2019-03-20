@@ -1,4 +1,4 @@
-﻿<%@page import="com.douzon.emaillist.vo.EmaillistVo"%>
+<%@page import="com.douzon.emaillist.vo.EmaillistVo"%>
 <%@page import="java.util.List"%>
 <%@page import="com.douzon.emaillist.dao.EmaillistDao"%>
 <%@ page language="java" contentType="text/html; charset=UTF-8"
